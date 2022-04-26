@@ -14,8 +14,8 @@ public class exemplogit {
      */
     public static void main(String[] args) {
     
-        int soma = 1 +1;
-        System.out.println("Resultado soma; " + soma);
+        int soma = 1 +198;
+        System.out.println("Resultado soma: " + soma);
     }
     
 }
